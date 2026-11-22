@@ -1,0 +1,6 @@
+# Ficheros compilados y generados por Maven
+target/
+
+# Ficheros de NetBeans
+nbproject/private/
+nbactions.xml
