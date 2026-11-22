@@ -1,0 +1,9 @@
+ut4\sqlite\controlador\HoloNetControl.class
+ut4\sqlite\modelo\CazaLigero.class
+ut4\sqlite\modelo\Nave.class
+ut4\sqlite\pruebas\MainCargaCSV.class
+ut4\sqlite\modelo\DestructorEstelar.class
+ut4\sqlite\pruebas\MainHoloNet.class
+ut4\sqlite\util\CargadorFlotaCSV.class
+ut4\sqlite\modelo\Planeta.class
+ut4\sqlite\util\HibernateUtil.class
